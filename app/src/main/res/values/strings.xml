@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BangunRuang</string>
+    <string name="ketKubus">Merupakan bangun yang dibatasi oleh 6 sisi yang sama dan sebangun.\n \nMemilik 6 sisi yang sama, sebangun dan berbentuk persegi, mempunyai 2 rusuk yang sama panjang, mempunyai 8 titik sudut, jaring-jaringnya merupakan 6 buah persegi yang kongruen </string>
+    <string name="ketBalok">Bangun ruang yang dibatasi oleh 6 sisi yang mempunya ukuran panjang dan lebar.\n \nMemiliki 6 sisi yang berbentuk persegi panjang, 3 pasang sisi yang saling berhadapan, mempunyai 12 rusuk dan 4 buah rusuk tersebut saling berhadapan, memiliki 8 titik sudut, jaring-jaringnya berupa 6 buah persegi panjang</string>
+    <string name="ketTabung">Bangun ruang yang dibatasi oleh sisi lengkung dan sepasang lingkaran.\n \nTingginya dibatasi dengan jarak titik pusat bidang lingkaran alas dengan titik pusat lingkatan atas dan bidang tegak tabung berupa lengkungan yang disebut selimut tabung </string>
+    <string name="ketKerucut">Merupakan bangun yang dibatasi oleh alas yang berbentuk lingkaran dan selimut yang berbentuk lengkung. Mempunyai 2 sisi, 1 titik sudut, terdiri dari lingkaran dan segitiga</string>
+    <string name="ketPrisma">Merupakan bangun yang dibatasi oleh 6 sisi yang mempunyai ukuran panjang dan lebar. Sisi alas dan atasnya kongruen dan sejajar, Rusuk prisma alas dan atas yang berhadapan sama dan sejajar, mempunyai 5 sisi, mempunyai  9 rusuk, mempunyai 6 titik sudut, Jaring-jaring prisma segitiga berupa 2 segitiga, dan 3 persegi panjang.
+</string>
+    <string name="ketLimas">Merupakan bangun yang dibatasi oleh sisi yang berbentuk segitiga. mempunyai bidang alas segi terbanyak, Nama limas ditentukan oleh bentuk alasnya, Tinggi limas adalah garis tegak lurus dari puncak limas ke alas limas</string>
+    <string name="ketBola">Bola merupakan bangun yang dibatasi oleh sisi lengkung. Mempunyai 1 sisi dan 1 titik pusat, Sisi bola disebut dinding bola, Bola tidak mempunyai titik sudut dan rusuk, Jarak dinding ke titik pusat bola disebut jari-jari, Jarak dinding ke dinding dan melewati titik pusat disebut diameter.\n \n \n Sedangkan kerucut merupakan bangun yang dibatasi oleh alas yang berbentuk lingkaran dan selimut yang berbentuk lengkung. Mempunyai 2 sisi, 1 titik sudut, terdiri dari lingkaran dan segitiga</string>
+</resources>
